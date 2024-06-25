@@ -1,0 +1,28 @@
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\Whois Alien Painel de Consultas.exe.config
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\Whois Alien Painel de Consultas.exe
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\Whois Alien Painel de Consultas.pdb
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.AssemblyReference.cache
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois_Alien_Painel_de_Consultas.Form1.resources
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois_Alien_Painel_de_Consultas.Properties.Resources.resources
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.GenerateResource.cache
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.CoreCompileInputs.cache
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.exe
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.pdb
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois_Alien_Painel_de_Consultas.Apresentação.MenuDeConsultas.resources
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\EntityFramework.dll
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\System.Data.SQLite.dll
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\EntityFramework.xml
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\bin\Debug\System.Data.SQLite.xml
+C:\Users\ALIEN\Desktop\Projetos\Painel de consultas\Whois Alien Painel de Consultas\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.CopyComplete
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.AssemblyReference.cache
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois_Alien_Painel_de_Consultas.Form1.resources
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois_Alien_Painel_de_Consultas.Apresentação.MenuDeConsultas.resources
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois_Alien_Painel_de_Consultas.Properties.Resources.resources
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.GenerateResource.cache
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.csproj.CoreCompileInputs.cache
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.exe
+C:\Users\ALIEN\Desktop\Painel de consultas\Painel de consultas (C#) - Não Terminado\Whois Alien Painel de Consultas\obj\Debug\Whois Alien Painel de Consultas.pdb
