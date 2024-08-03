@@ -1,6 +1,7 @@
-# Whois Alien - Painel em C#
+# 🤖 Whois Alien - Painel em C#
 
-> Projeto não terminado!
+<h3 align="center">Projeto não terminado! e mal começado hahaha 🤣</h3>
+
 
 Criei apenas a parte visual do projeto sem implementar nenhuma funcionalidade como botões, funções, classes etc. Comecei apenas por curiosidade de saber como funcionava o C#. Não tenho familiaridade com o mesmo, então por esse motivo o projeto não se desenrolou. Resumidamente, criei apenas o Front-end.
 
