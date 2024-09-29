@@ -1,13 +1,6 @@
 # 👽 Whois Alien - Painel em C#
 
----
-
-
 ### PROJETO NÃO TERMINADO!
-
-
-
-
 
 Tentei criar um painel interativo em `C#` mas infelizmente não cheguei de terminar o projeto por diversos fatores como ausência de conhecimento na respectiva linguagem e não ter conhecimento sobre como funciona o `C#` a fundo.
 
